@@ -9,7 +9,7 @@
 <!-- ## Hi there 👋 -->
 
 
-#### An enthusiastic, skilled and organized third year college student, pursuing computer science engineering with a strong background in computer programming. I am looking for opportunities to apply my skills and knowledge in the professional field and gain significant experience
+#### An enthusiastic, skilled and organized fourth year college student, pursuing computer science engineering with a strong background in computer programming. I am always looking for opportunities to apply my skills and knowledge in the professional field and gain valuable experience.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in data science, web development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in ML based projects.
@@ -17,7 +17,7 @@
 - 👍 Looking for opportunities to join as an intern/full time.
 <!-- - 🌐 Visit my [porfolio website](https://sparshjain2000.github.io/). -->
 <!--
-**SparshJain2000/SparshJain2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samyak989/samyak989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshJain2000&show_icons=true&theme=radical&count_private=true&hide=issues" />
 </p> -->
 
-[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samyak989&theme=rogue)](https://github.com/SparshJain2000/github-readme-activity-graph)
+[![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=samyak989&theme=rogue)](https://github.com/SparshJain2000/github-readme-activity-graph)
 
 
 ### 🤝 Connect with Me :
